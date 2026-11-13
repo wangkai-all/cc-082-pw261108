@@ -1,0 +1,11 @@
+{
+  "name": "recipe-costing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "餐饮配方成本试算页：配方版本、采购批次、损耗率、价格情景与毛利分析",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test \"test/**/*.test.mjs\""
+  }
+}
